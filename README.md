@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyaprakash R</h1>
 <h3 align="center">A passionate Growing developer</h3>
 <h3 align="center">🌱 I’m currently learning ...</h3>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyaprakash-r-349746292/) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
