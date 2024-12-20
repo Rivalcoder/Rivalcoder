@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Growing developer</h3>
 <h3 align="center">🌱 I’m currently learning ...</h3>
 
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<div>
 
 <!--
 **Rivalcoder/Rivalcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
