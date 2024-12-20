@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Growing developer</h3>
 <h3 align="center">🌱 I’m currently learning ...</h3>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
