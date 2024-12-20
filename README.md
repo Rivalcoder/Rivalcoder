@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Divyaprakash R</h1>
+<h3 align="center">A passionate Growing developer</h3>
 ##🌱 I’m currently learning ...
 <!--
 **Rivalcoder/Rivalcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
