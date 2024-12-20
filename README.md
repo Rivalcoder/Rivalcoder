@@ -3,7 +3,7 @@
 <h3 align="center">🌱 I’m currently learning ...</h3>
 
 
-<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
 **Rivalcoder/Rivalcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
