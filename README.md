@@ -50,27 +50,34 @@ I'm a passionate Full Stack Developer with a keen interest in AI and Web Develop
 
 ### 1. NoteKeeper
 ![NoteKeeper](https://img.shields.io/badge/Project-NoteKeeper-orange)
-- Secure online note-taking application
-- User authentication with MongoDB
-- Real-time note synchronization
-- CRUD operations for notes
-- Responsive design with Tailwind CSS
+- Secure online note-taking application  
+- User authentication with MongoDB  
+- Real-time note synchronization  
+- CRUD operations for notes  
+- Responsive design with Tailwind CSS  
 - [View Project](https://github.com/Rivalcoder/NoteKeeper)
 
+---
 
-### 2. AI Resume Builder
-![AI Resume Builder](https://img.shields.io/badge/Project-AI_Resume_Builder-green)
-- AI-powered resume creation and optimization
-- ATS-friendly resume generation
-- Built with React, Next.js, and Google AI
-- [View Project](https://github.com/Rivalcoder/Resume-Builder)
+### 2. Health Crypt – The Future of Health Records
+![Health Crypt](https://img.shields.io/badge/Project-Health_Crypt-blue)
+- AI-powered, secure platform for managing digital health records  
+- Doctor, Patient, and Admin interfaces with role-based access  
+- Features: AI visit summaries, health trend analysis, secure data storage, and medication reminders  
+- Built with **Next.js, MongoDB, Tailwind CSS, Genkit AI (Gemini), Radix UI**  
+- [View Project](https://github.com/Rivalcoder/Health-Crypt)
 
-### 3. Learn Planner
-![Learn Planner](https://img.shields.io/badge/Project-Learn_Planner-purple)
-- AI-powered learning platform
-- Personalized learning paths
-- Built with Next.js and Google Gemini API
+---
+
+### 3. AI Learn Planner – Intelligent Learning Reimagined
+![AI Learn Planner](https://img.shields.io/badge/Project-AI_Learn_Planner-purple)
+- Personalized AI-powered learning paths using Google Gemini 2.0  
+- Interactive learning modules with Mermaid diagrams & Prism.js  
+- LeetCode + YouTube + Web Search integration for comprehensive learning  
+- Smooth UI with **Next.js, Tailwind CSS, Framer Motion, Prism.js**  
+- Progress tracking, difficulty levels, and responsive design  
 - [View Project](https://github.com/Rivalcoder/Learn-Planner)
+
 
 ## 📊 GitHub Stats
 
