@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Divyaprakash R
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Cool+Guy+😎" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -91,7 +91,7 @@ I'm a passionate Full Stack Developer with a keen interest in AI and Web Develop
 - 🏆 Pull Shark Award
 - 🎯 YOLO Achievement
 - 📈 Top Contributor in AI Projects
-- 🚀 Multiple Hackathon Wins
+- 🚀 Hackathon Wins
 
 ## 🤝 Connect With Me
 
