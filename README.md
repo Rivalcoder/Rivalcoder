@@ -90,8 +90,7 @@ I'm a passionate Full Stack Developer with a keen interest in AI and Web Develop
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivalcoder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=Rivalcoder&theme=radical" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=Rivalcoder&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Achievements
