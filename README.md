@@ -48,42 +48,50 @@ I'm a passionate Full Stack Developer with a keen interest in AI and Web Develop
 
 ## 🏆 Featured Projects
 
-### 1. NoteKeeper
-![NoteKeeper](https://img.shields.io/badge/Project-NoteKeeper-orange)
-- Secure online note-taking application  
-- User authentication with MongoDB  
-- Real-time note synchronization  
-- CRUD operations for notes  
-- Responsive design with Tailwind CSS  
-- [View Project](https://github.com/Rivalcoder/NoteKeeper)
+### 1. ALM (Audio Language Model)
+![ALM](https://img.shields.io/badge/Project-ALM-orange)
+
+- AI system designed to understand and process human speech  
+- Converts audio input into text using speech recognition and language models  
+- Generates meaningful responses for voice-based AI interaction  
+- Enables applications like transcription, voice assistants, and audio-driven AI  
 
 ---
 
-### 2. Health Crypt – The Future of Health Records
-![Health Crypt](https://img.shields.io/badge/Project-Health_Crypt-blue)
-- AI-powered, secure platform for managing digital health records  
-- Doctor, Patient, and Admin interfaces with role-based access  
-- Features: AI visit summaries, health trend analysis, secure data storage, and medication reminders  
-- Built with **Next.js, MongoDB, Tailwind CSS, Genkit AI (Gemini), Radix UI**  
-- [View Project](https://github.com/Rivalcoder/Health-Crypt)
+### 2. Aura AI
+![Aura AI](https://img.shields.io/badge/Project-Aura_AI-blue)
+
+- AI-powered assistant focused on mental wellness and emotional health  
+- Uses intelligent conversations to understand mood, stress, and emotional patterns  
+- Provides personalized suggestions and guidance for improving well-being  
+- Designed to support healthier digital interactions and emotional awareness  
 
 ---
 
-### 3. AI Learn Planner – Intelligent Learning Reimagined
-![AI Learn Planner](https://img.shields.io/badge/Project-AI_Learn_Planner-purple)
-- Personalized AI-powered learning paths using Google Gemini 2.0  
-- Interactive learning modules with Mermaid diagrams & Prism.js  
-- LeetCode + YouTube + Web Search integration for comprehensive learning  
-- Smooth UI with **Next.js, Tailwind CSS, Framer Motion, Prism.js**  
-- Progress tracking, difficulty levels, and responsive design  
-- [View Project](https://github.com/Rivalcoder/Learn-Planner)
+### 3. Learn-Planner
+![Learn Planner](https://img.shields.io/badge/Project-Learn_Planner-purple)
+
+- Smart platform that helps students organize and manage learning schedules  
+- Allows users to plan study tasks, set goals, and track progress over time  
+- Improves productivity through structured learning and consistent habits  
+- Designed to support efficient and focused learning workflows  
+
+---
+
+### 4. InventSmart AI (Inventory Management)
+![InventSmart AI](https://img.shields.io/badge/Project-InventSmart_AI-green)
+
+- AI-powered inventory and sales management platform  
+- Helps businesses track stock levels and manage inventory in real time  
+- Provides AI analytics and insights for smarter decision making  
+- Supports natural language queries to simplify inventory management
 
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivalcoder&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivalcoder&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivalcoder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=Rivalcoder&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Achievements
